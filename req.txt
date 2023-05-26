@@ -1,2 +1,2 @@
 streamlit
-import firebase_admin
+firebase_admin
